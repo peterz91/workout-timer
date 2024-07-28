@@ -112,6 +112,18 @@ button:disabled {
 }
 
 @media (max-width: 400px) {
+    body {
+        align-items: flex-start;
+        padding-top: 2rem;
+    }
+    
+    .container {
+        background-color: transparent;
+        box-shadow: none;
+        padding: 0;
+        width: 100%;
+    }
+    
     #display {
         font-size: 4rem;
     }
