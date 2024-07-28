@@ -78,8 +78,16 @@ button:disabled {
 
 /* Responsive adjustments */
 @media (max-width: 600px) {
+    body {
+        align-items: flex-start;
+        padding-top: 2rem;
+    }
+    
     .container {
-        padding: 1rem;
+        background-color: transparent;
+        box-shadow: none;
+        padding: 0;
+        width: 100%;
     }
 
     #display {
