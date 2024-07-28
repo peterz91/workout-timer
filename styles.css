@@ -113,6 +113,6 @@ button:disabled {
 
 @media (max-width: 400px) {
     #display {
-        font-size: 6rem;
+        font-size: 4rem;
     }
 }
