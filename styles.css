@@ -91,7 +91,7 @@ button:disabled {
     }
 
     #display {
-        font-size: 8rem;
+        font-size: 10rem;
     }
 
     .inputs {
@@ -133,6 +133,6 @@ button:disabled {
     }
     
     #display {
-        font-size: 6rem;
+        font-size: 4rem;
     }
 }
